@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 📈 GitHub Analytics
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chetan-kiran&theme=tokyo-night)]()
+
+---
+
 <!--
 **NEELADHRIHARSHINI/NEELADHRIHARSHINI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
