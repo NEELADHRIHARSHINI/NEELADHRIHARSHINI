@@ -2,7 +2,7 @@
 
 ## 📈 GitHub Analytics
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chetan-kiran&theme=tokyo-night)]()
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NEELADHRIHARSHINI&theme=tokyo-night)]()
 
 ---
 
